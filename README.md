@@ -5,34 +5,17 @@
 ###
 
 <div align="left">
-  <p>Hi! I'm Evan Goh, a student at Ngee Ann Polytechnic majoring in Information Technology. I'm passionate about web development, coding, and learning new technologies. I enjoy creating user-friendly websites and building applications with JavaScript, React, and Python. In my spare time, I also explore gaming and content creation.</p>
+  <p>Hi! I'm Evan Goh, a student at Ngee Ann Polytechnic majoring in Information Technology. I have a strong passion for **data visualization**, where I love transforming complex data into visually compelling and easy-to-understand stories using tools like Tableau. Whether it's creating dashboards, analyzing trends, or diving deep into data, I enjoy helping others make data-driven decisions through powerful visualizations.  
+  <br><br>Besides my work with data, photography is my hobby. I love capturing beautiful moments and expressing myself through the lens of a camera. Photography allows me to see the world from different perspectives and tells stories through still images. Whether it's portrait, nature, or street photography, it's a creative outlet that allows me to express myself in a unique way.</p>
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<h3 align="left">🚀 Some of My Projects</h3>
+<h3 align="left">📊 Some of My Data Visualizations</h3>
 <ul>
-  <li><a href="https://github.com/evangohh/project-name" target="_blank">Project 1</a></li>
-  <li><a href="https://github.com/evangohh/project-name" target="_blank">Project 2</a></li>
-  <li><a href="https://github.com/evangohh/project-name" target="_blank">Project 3</a></li>
+  <li><a href="https://www.instagram.com/p/DCMBSRdzjYj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">Photo 1</a></li>
+  <li><a href="https://www.instagram.com/p/DCMAI6kTjWD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">Photo 2</a></li>
+  <li><a href="https://www.instagram.com/reel/C-KKzXPqiHw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">Video Reel</a></li>
 </ul>
 
 ###
@@ -62,12 +45,13 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Currently_Learning-JavaScript&color=blue&style=for-the-badge" height="35" alt="learning status" />
-  <img src="https://img.shields.io/static/v1?message=VS%20Code&logo=visualstudiocode&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="VS Code badge" />
-  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Docker badge" />
+  <img src="https://img.shields.io/static/v1?message=Currently_Learning-Tableau&color=blue&style=for-the-badge" height="35" alt="learning status" />
+  <img src="https://img.shields.io/static/v1?message=Power%20BI&logo=powerbi&label=&color=F2C811&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Power BI badge" />
+  <img src="https://img.shields.io/static/v1?message=Data%20Visualization&logo=data%20visualization&label=&color=01B0F0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Data Visualization badge" />
 </div>
 
 <br clear="both">
 
 ### 
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
