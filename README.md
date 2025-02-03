@@ -6,12 +6,12 @@
 
 <div align="left">
   <p>Hi! I'm Evan Goh, a student at Ngee Ann Polytechnic majoring in Information Technology. I have a strong passion for **data visualization**, where I love transforming complex data into visually compelling and easy-to-understand stories using tools like Tableau. Whether it's creating dashboards, analyzing trends, or diving deep into data, I enjoy helping others make data-driven decisions through powerful visualizations.  
-  <br><br>Besides my work with data, photography is my hobby. I love capturing beautiful moments and expressing myself through the lens of a camera. Photography allows me to see the world from different perspectives and tells stories through still images. Whether it's portrait, nature, or street photography, it's a creative outlet that allows me to express myself in a unique way.</p>
+  <br><br>Besides my work with data, **photography** is my hobby. I love capturing beautiful moments and expressing myself through the lens of a camera. Photography allows me to see the world from different perspectives and tells stories through still images. Whether it's portrait, nature, or street photography, it's a creative outlet that allows me to express myself in a unique way.</p>
 </div>
 
 ###
 
-<h3 align="left">📊 Some of My Data Visualizations</h3>
+<h3 align="left">📸 Some of My Photography Projects</h3>
 <ul>
   <li><a href="https://www.instagram.com/p/DCMBSRdzjYj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">Photo 1</a></li>
   <li><a href="https://www.instagram.com/p/DCMAI6kTjWD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">Photo 2</a></li>
@@ -45,9 +45,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Currently_Learning-Tableau&color=blue&style=for-the-badge" height="35" alt="learning status" />
-  <img src="https://img.shields.io/static/v1?message=Power%20BI&logo=powerbi&label=&color=F2C811&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Power BI badge" />
-  <img src="https://img.shields.io/static/v1?message=Data%20Visualization&logo=data%20visualization&label=&color=01B0F0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Data Visualization badge" />
+  <img src="https://img.shields.io/static/v1?message=Currently_Learning-Photography&color=blue&style=for-the-badge" height="35" alt="learning status" />
+  <img src="https://img.shields.io/static/v1?message=Lightroom&logo=adobelightroom&label=&color=1A1C1E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Lightroom badge" />
+  <img src="https://img.shields.io/static/v1?message=Photo%20Editing&logo=photoshop&label=&color=31A8FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Photo Editing badge" />
 </div>
 
 <br clear="both">
