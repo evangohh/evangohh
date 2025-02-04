@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Evan Goh and I'm a Student in Ngee Ann Polytechnic, from Information Technology</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
