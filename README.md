@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <p>Hi! I'm Evan Goh, a student at Ngee Ann Polytechnic majoring in Information Technology. I have a strong passion for **data visualization**, where I love transforming complex data into visually compelling and easy-to-understand stories using tools like Tableau. Whether it's creating dashboards, analyzing trends, or diving deep into data, I enjoy helping others make data-driven decisions through powerful visualizations.  
+  <p>Hi! I'm Evan Goh, a student at Ngee Ann Polytechnic majoring in Information Technology. I have a strong passion for data visualization, where I love transforming complex data into visually compelling and easy-to-understand stories using tools like Tableau. Whether it's creating dashboards, analyzing trends, or diving deep into data, I enjoy helping others make data-driven decisions through powerful visualizations.  
   <br><br>Besides my work with data, **photography** is my hobby. I love capturing beautiful moments and expressing myself through the lens of a camera. Photography allows me to see the world from different perspectives and tells stories through still images. Whether it's portrait, nature, or street photography, it's a creative outlet that allows me to express myself in a unique way.</p>
 </div>
 
